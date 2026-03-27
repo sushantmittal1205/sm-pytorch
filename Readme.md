@@ -34,7 +34,7 @@ Each notebook corresponds to a topic from the playlist and contains code, explan
 1. Clone this repository:
    ```bash
       git clone https://github.com/sushantmittal1205/sm-pytorch.git
-         cd <your-repo-name>
+         cd sm-pytorch
 	    ```
 
 	    2. Install dependencies:
