@@ -12,6 +12,7 @@ Each notebook corresponds to a topic from the playlist and contains code, explan
 |---|-------|----------|
 | 01 | Tensor Operations | `pytorch-introduction.ipynb` |
 | 02 | Autograd & Computational Graphs | `pytorch-autograd.ipynb` |
+| 03 | Build basic PyTorch Pipeline to understand fundamentals | `pytorch-training-pipeline.ipynb` |
 | 03 | Building Neural Networks with `torch.nn` | `04_neural_networks.ipynb` |
 | 04 | Training Loop & Optimization | `05_training_loop.ipynb` |
 | 05 | Loss Functions & Optimizers | `06_loss_optimizers.ipynb` |
