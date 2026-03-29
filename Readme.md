@@ -59,4 +59,4 @@ Each notebook corresponds to a topic from the playlist and contains code, explan
 
 ## 🎓 Course Reference
 All notebooks follow the **CampusX PyTorch Playlist** on YouTube:
-👉 [https://www.youtube.com/playlist?list=PLKnIA16_Rmvboy8bmDCjwNHgTaYH2puK7](https://www.youtube.com/playlist?list=PLKnIA16_Rmvboy8bmDCjwNHgTaYH2puK7)
+👉 [Playlist Link](https://www.youtube.com/playlist?list=PLKnIA16_Rmvboy8bmDCjwNHgTaYH2puK7)
