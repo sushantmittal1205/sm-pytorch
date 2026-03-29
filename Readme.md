@@ -33,21 +33,23 @@ Each notebook corresponds to a topic from the playlist and contains code, explan
 
 
 1. Clone this repository:
-   """bash
-      git clone https://github.com/sushantmittal1205/sm-pytorch.git
-         cd sm-pytorch
-	    """
+   ```
+   bash 
+   git clone https://github.com/sushantmittal1205/sm-pytorch.git
+   cd sm-pytorch
+   ```
+2. Install dependencies:
+   ```
+   bash
+   pip install torch torchvision torchaudio
+   pip install jupyter numpy matplotlib
+   ```
 
-	    2. Install dependencies:
-	       """bash
-	          pip install torch torchvision torchaudio
-		     pip install jupyter numpy matplotlib
-		        """
-
-			3. Launch Jupyter:
-			   """bash
-			      jupyter notebook
-			         """
+3. Launch Jupyter:
+	```
+	bash
+	jupyter notebook
+	```
 
 				 ---
 
