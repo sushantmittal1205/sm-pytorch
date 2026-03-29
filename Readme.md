@@ -51,18 +51,12 @@ Each notebook corresponds to a topic from the playlist and contains code, explan
 	jupyter notebook
 	```
 
-				 ---
+## 📦 Tech Stack
+- **[PyTorch](https://pytorch.org/)** — Deep learning framework
+- **[Jupyter Notebook](https://jupyter.org/)** — Interactive development environment
+- **[NumPy](https://numpy.org/)** — Numerical computing
+- **[Matplotlib](https://matplotlib.org/)** — Visualization
 
-				 ## 📦 Tech Stack
-
-				 - **[PyTorch](https://pytorch.org/)** — Deep learning framework
-				 - **[Jupyter Notebook](https://jupyter.org/)** — Interactive development environment
-				 - **[NumPy](https://numpy.org/)** — Numerical computing
-				 - **[Matplotlib](https://matplotlib.org/)** — Visualization
-
-				 ---
-
-				 ## 🎓 Course Reference
-
-				 All notebooks follow the **CampusX PyTorch Playlist** on YouTube:
-				 👉 [https://www.youtube.com/playlist?list=PLKnIA16_Rmvboy8bmDCjwNHgTaYH2puK7](https://www.youtube.com/playlist?list=PLKnIA16_Rmvboy8bmDCjwNHgTaYH2puK7)
+## 🎓 Course Reference
+All notebooks follow the **CampusX PyTorch Playlist** on YouTube:
+👉 [https://www.youtube.com/playlist?list=PLKnIA16_Rmvboy8bmDCjwNHgTaYH2puK7](https://www.youtube.com/playlist?list=PLKnIA16_Rmvboy8bmDCjwNHgTaYH2puK7)
